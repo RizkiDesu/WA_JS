@@ -5,6 +5,8 @@
 
 ```bash
 $ git clone [https://github.com/bantenprov/advancetrust.git](https://github.com/RizkiDesu/WA_JS.git)https://github.com/RizkiDesu/WA_JS.git
+```
+```bash
 $ cd WA_JS
 ```
 ### 2. Install Library
