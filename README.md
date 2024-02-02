@@ -1,5 +1,5 @@
 # WA_JS
-##bangun WA AOTOMATIS MU
+## bangun WA AOTOMATIS MU
 
 ### 1. Clone Repo
 
@@ -16,4 +16,4 @@ $ npm install
 $ npm start
 ```
 
-##dokumentasi resmi : https://wwebjs.dev/
+## dokumentasi resmi : https://wwebjs.dev/
