@@ -4,18 +4,18 @@
 ### 1. Clone Repo
 
 ```bash
-$ git clone https://github.com/RizkiDesu/WA_JS.git
+git clone https://github.com/RizkiDesu/WA_JS.git
 ```
 ```bash
-$ cd WA_JS
+cd WA_JS
 ```
 ### 2. Install Library
 ```bash
-$ npm install
+npm install
 ```
 ### 3. jalankan
 ```bash
-$ npm start
+npm start
 ```
 
 ## dokumentasi resmi : https://wwebjs.dev/
