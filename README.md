@@ -1,0 +1,2 @@
+# WA_JS
+bangun WA AOTOMATIS MU
