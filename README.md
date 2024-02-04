@@ -11,7 +11,7 @@ cd WA_JS
 ```
 ### 2. Install Library
 ```bash
-npm install
+yarn install
 ```
 ### 3. jalankan
 ```bash
